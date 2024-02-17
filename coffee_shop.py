@@ -6,7 +6,7 @@ muffin_price = int(4)
 
 #asks the customer for their order
 coffee_amount = int(input('How many coffees would you like to order?\n'))
-muffin_amount = int(input('How many muffins can I get you?\n')
+muffin_amount = int(input('How many muffins can I get you?\n'))
 
 #assigns the sales tax amount to the variable sales_tax
 sales_tax = float(.06)
