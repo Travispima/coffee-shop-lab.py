@@ -33,7 +33,7 @@ total = subtotal + tax
 #displays the receipt and utilizes the variables made previously
 print('\n*****************************************')
 print('My Coffee and Muffin Shop')
-print('Number of coffees bought')
+print('Number of coffees bought?')
 print(coffee_amount)
 print('Number of muffins bought?')
 print(muffin_amount)
