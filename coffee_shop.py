@@ -1,6 +1,6 @@
 #My Coffee Shop Simulator
 
-#assigns a value to the variables coffee_price and muffin_price
+#assigns a value to the variables coffee_price, muffin_price, cheese_danish_price, and donut_price
 coffee_price = int(5)
 muffin_price = int(4)
 cheese_danish_price = int(6)
@@ -43,7 +43,7 @@ print('Number of donuts bought?')
 print(donut_amount)
 print('******************************************\n')
 print('******************************************')
-print('My Coffee and Muffin Shopt Receipt')
+print('My Coffee and Muffin Shop Receipt')
 print(coffee_amount, 'Coffee at $5 each: $', coffee_total)
 print(muffin_amount, 'Muffins at $4 each: $', muffin_total)
 print(cheese_danish_amount, 'Cheese Danishes at $6 each: $', cheese_danish_total)
