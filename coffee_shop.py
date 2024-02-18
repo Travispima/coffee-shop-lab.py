@@ -1,6 +1,6 @@
 #My Coffee Shop Simulator
 
-#assigns a value to the variables coffee_price and muffin_price
+#assigns a value to the variables coffee_price, muffin_price, cheese_danish_price, and donut_price
 coffee_price = int(5)
 muffin_price = int(4)
 cheese_danish_price = int(6)
